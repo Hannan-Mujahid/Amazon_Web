@@ -96,9 +96,19 @@ span{
 /** Box 5 **/
 .nav-cart{
     display: flex;
-    font-size: 14px;
+    /* font-size: 14px; */
     font-weight: 700;
 }
 .nav-cart i{
     font-size: 28px;
+}
+.nav-cart p{
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+/** Panel Div **/
+.panel{
+    background-color: pink;
+    display: flex;
 }

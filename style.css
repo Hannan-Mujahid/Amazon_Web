@@ -150,9 +150,9 @@ span{
 }
 
 /** Shop Section**/
-.shop-section{
+.shop-section-1{
     display: flex;
-    flex-wrap: wrap;
+    
     justify-content: space-evenly;
     background-color: #e2e7e6;
 }
@@ -178,4 +178,10 @@ span{
 .box-content p{
     color: #007185;
 
+}
+.shop-section-2{
+    display: flex;
+    
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
 }

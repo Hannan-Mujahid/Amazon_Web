@@ -29,6 +29,7 @@
 }
 
 /*** Box 2 **/
+
 .add-first  {
     color: #cccc;
     font-size: 0.85rem;
@@ -43,3 +44,24 @@
     align-items: center;
 }
 
+/** Box3 **/
+
+.nav-search{
+    display: flex;
+    
+}
+.search-select{
+     width: 40px;
+     border-radius: 4px;
+     background-color: #f3f3f3;
+}
+.search-input{
+    width: 650px;
+    height: 35px;
+}
+.search-icon{
+    background-color: #febd69;
+    width: 40px;
+    border-radius: 4px;
+
+}

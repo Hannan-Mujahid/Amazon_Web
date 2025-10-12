@@ -109,6 +109,16 @@ span{
 
 /** Panel Div **/
 .panel{
-    background-color: pink;
+    background-color: #222f3d;
     display: flex;
+    height: 39px;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.panel-options p{
+    display: inline;
+}
+.panel-option{
+    width: 70%;
 }

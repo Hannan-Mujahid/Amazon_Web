@@ -119,6 +119,7 @@ span{
 .panel-options p{
     display: inline;
 }
-.panel-option{
-    width: 70%;
+.panel-options{
+    width: 85%;
+    font-size: 0.85rem;
 }

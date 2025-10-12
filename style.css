@@ -49,7 +49,7 @@
 
 .nav-search{
     display: flex;
-    width: 650px;
+    width: 750px;
     height: 35px;
     border-radius: 4px;
     justify-content: space-evenly;
@@ -118,8 +118,9 @@ span{
 }
 .panel-options p{
     display: inline;
+    margin-left: 17px;
 }
 .panel-options{
-    width: 85%;
+    width: 90%;
     font-size: 0.85rem;
 }

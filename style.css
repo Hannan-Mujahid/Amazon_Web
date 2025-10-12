@@ -131,3 +131,14 @@ span{
     height: 600px;
     background-size: cover;
 }
+.hero-message{
+    background-color: white;
+    color: black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hero-message a{
+    color: #007185;
+}

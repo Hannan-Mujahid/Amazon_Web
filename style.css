@@ -165,12 +165,16 @@ span{
 }
 .box-img{
     height: 300px;
-    background-image: cover;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-top: 16px;
+    margin-bottom: 16px;
 }
 .box-content{
     margin-left: 20px;
     margin-right: 20px;
+}
+.box-content p{
+    color: #007185;
+
 }

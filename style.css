@@ -225,3 +225,7 @@ ul a{
     color: white;
     border-top: 1px solid  #37475a;
 }
+.logo{
+    background-image: url("amazon_logo.png");
+    
+}

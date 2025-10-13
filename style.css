@@ -200,3 +200,13 @@ footer{
     align-items: center;
     font-size: 0.85rem;
 }
+.footer-panel2{
+    background-color: #222f3d;
+    color: white ;
+    display: flex;
+    height: 500px;
+}
+ul a{
+    display: block;
+    /* color: white; */
+}

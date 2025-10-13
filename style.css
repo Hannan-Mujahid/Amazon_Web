@@ -204,10 +204,16 @@ footer{
     background-color: #222f3d;
     color: white ;
     display: flex;
-    height: 500px;
+    height: 300px;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    
 }
 ul a{
     display: block;
-    color: white;
+    color: #DDDDDD;
     font-size: 0.85rem;
+    margin-top: 10px;
+
 }

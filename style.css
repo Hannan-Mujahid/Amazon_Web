@@ -224,8 +224,10 @@ ul a{
     background-color:  #222f3d;
     color: white;
     border-top: 1px solid  #37475a;
+    height: 68px;
 }
 .logo{
     background-image: url("amazon_logo.png");
-    
+    background-size: cover;
+    height: 50px;
 }
